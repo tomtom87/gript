@@ -1,7 +1,7 @@
 +++
 banner = ""
 date = "2016-09-12T17:38:12+07:00"
-description = ""
+description = "Delve into meta-programming with Elixir a highly powerful macro based language"
 images = []
 menu = ""
 tags = ["elixir", "web"]

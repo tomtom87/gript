@@ -5,6 +5,7 @@ tags = ["theme"]
 categories = ["starting"]
 menu = ""
 banner = "banners/placeholder.png"
+draft = true
 +++
 
 ## Introduction
