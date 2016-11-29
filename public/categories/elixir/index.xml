@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elixir on Gript</title>
+    <link>http://www.gript.co.uk/categories/elixir/</link>
+    <description>Recent content in Elixir on Gript</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Sep 2016 17:38:12 +0700</lastBuildDate>
+    <atom:link href="http://www.gript.co.uk/categories/elixir/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What Is Elixir? Erlang Primer</title>
+      <link>http://www.gript.co.uk/2016/09/12/what-is-elixir-erlang-primer</link>
+      <pubDate>Mon, 12 Sep 2016 17:38:12 +0700</pubDate>
+      
+      <guid>http://www.gript.co.uk/2016/09/12/what-is-elixir-erlang-primer</guid>
+      <description>&lt;p&gt;Elixir is a &lt;em&gt;powerful, dynamic functional language.&lt;/em&gt; It can be used to create
+highly scalable web applications - and is very easy to use.&lt;/p&gt;
+
+&lt;p&gt;Elixir uses the Erlang VM to achieve its super low latency results and has
+exceptional support for Fault-tolerance.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
